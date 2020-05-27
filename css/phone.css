@@ -37,9 +37,10 @@
     overflow: hidden;
 }
 
-#client-section{
-    height: 500px;
-    }
+#client-section::before{
+    content: "";
+    width: 70%;
+}
 
 .h-primary{
     font-size: 26px;
