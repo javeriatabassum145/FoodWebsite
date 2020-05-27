@@ -1,6 +1,3 @@
-
-
-
 #navbar{
     flex-direction: column;
 }
@@ -39,6 +36,10 @@
 #clients{
     overflow: hidden;
 }
+
+#client-section{
+    height: 500px;
+    }
 
 .h-primary{
     font-size: 26px;
